@@ -1,0 +1,32 @@
+.listdata{
+  /* margin-left: 18vw; */
+  /* margin-top: 10vh; */
+  /* width: 70vw; */
+  border: 1px solid rgb(115, 113, 113);
+  border-radius: 20px;
+}
+.mainlist{
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  margin: 50px;
+  /* border: 2px solid black; */
+  /* border-radius: 10px; */
+  padding: 20px;
+}
+.mainlist h2{
+  font-size: 3rem !important;
+  color: rgb(49, 67, 99);
+}
+.datatablelist{
+  border-radius: 20px !important;
+  z-index: 100000 !important;
+
+padding: 7px;}
+
+.collist{
+  background-color: unset !important;
+}
+span{
+  color: black !important;
+}
